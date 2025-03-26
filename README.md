@@ -67,7 +67,7 @@ Buatlah aplikasi Flutter sederhana yang berkomunikasi dengan dummy backend dari 
 3. Buat **Pull Request (PR)** ke branch `main`.
 
 ## ⏳ Batas Waktu
-Harap selesaikan dalam **waktu 2-3 jam** setelah menerima tugas ini.
+Harap selesaikan dalam **waktu 2 jam** setelah menerima tugas ini.
 
 Selamat mengerjakan dan semoga sukses! 🚀
 
